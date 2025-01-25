@@ -17,25 +17,7 @@
 2. Complete the empty fields and click on button `Check again` to verify whether your configuration is correct or not.
 3. Once the exercise is successful, click on button `Get my config` to download your configuration.
 4. When you have successfully completed a level, click on button `Next level`.
-5. Practice Makes Master  [here](<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="css/netpractice.css">
-    <script src="js/intro.js"></script>
-    <meta charset="UTF-8">
-  </head>
-
-  <body>
-    <div class='intro_div'>
-      Welcome to 42's NetPractice !<br />
-      Please enter your intranet login (the moulinette will use it to know your own configuration) : <br />
-      <input id='input_login' type=text size=8><br />
-      Or leave empty for a defense : 3 random level from 6 to 10 will be offered to be solved in 15 minutes.<br />
-      <span class='footnote'>Note: the architecture and addresses used in the following levels are fictionnous and are not connected to real configurations.</span><br />
-      <input type=button value="Start !" onclick='save_login();'>
-    </div>
-    <script>document.getElementById('input_login').value = load_login();</script>
-  </body>
-</html>)
+5. Practice Makes Master  [here].(file:///home/piratilla/Downloads/net_practice.1.5/net_practice/index.html)
 5. Click [here](https://docs.google.com/presentation/d/e/2PACX-1vSHNDVR-drtwoUsNS-kfkYPyMKcTXB4X2i4kHyJlbCmz9thSo0-7GWev9-wIfE3HKHIS_bv5XJn2GCP/pub?start=false&loop=false&delayms=3000#slide=id.p) to start learning.
 
 ## 🧠 Networking Basics
