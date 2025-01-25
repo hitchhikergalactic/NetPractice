@@ -17,7 +17,7 @@
 2. Complete the empty fields and click on button `Check again` to verify whether your configuration is correct or not.
 3. Once the exercise is successful, click on button `Get my config` to download your configuration.
 4. When you have successfully completed a level, click on button `Next level`.
-5. Practice Makes Master file:///home/piratilla/Downloads/net_practice.1.5/net_practice/index.html
+5. Practice Makes Master  [here](file:///home/piratilla/Downloads/net_practice.1.5/net_practice/index.html)
 5. Click [here](https://docs.google.com/presentation/d/e/2PACX-1vSHNDVR-drtwoUsNS-kfkYPyMKcTXB4X2i4kHyJlbCmz9thSo0-7GWev9-wIfE3HKHIS_bv5XJn2GCP/pub?start=false&loop=false&delayms=3000#slide=id.p) to start learning.
 
 ## 🧠 Networking Basics
