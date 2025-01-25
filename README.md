@@ -8,7 +8,9 @@
 🌐  NetPractice is a general practical exercise to let you discover networking. 
 
 ## 📷 Preview
-![preview](imgs/preview.png)
+
+![preview](https://github.com/user-attachments/assets/bd5e35a0-7312-4ffe-885b-fbd9e3238561)
+
 
 ## 🕹️ Usage
 1. There are 10 levels available for training.
